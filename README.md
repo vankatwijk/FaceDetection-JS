@@ -4,7 +4,7 @@ FaceDetection
 
 # Project Description
 
-FaceDetection
+real time face detection through a webcam using AI, using the Face API JS library built on Tensor Flow to setup the face detection.
 
 ## Getting Started
 
