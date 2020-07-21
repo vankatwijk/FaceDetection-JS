@@ -12,7 +12,11 @@ real time face detection through a webcam using AI, using the Face API JS librar
 
 ## Getting Started
 
-The instructions for installing this project on your local machine with pre-requirements can be found in the directories Todo(mobile apps).
+you can run the project via the index.hml file in your browser
+
+
+## Built With
+* [face-api.js](https://github.com/justadudewhohacks/face-api.js) - Javascript face detection api
 
 
 ## Authors
