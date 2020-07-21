@@ -6,6 +6,12 @@ FaceDetection
 
 real time face detection through a webcam using AI, using the Face API JS library built on Tensor Flow to setup the face detection.
 
+- Streaming a webcam through HTML
+- Using Face API to detect faces in real time
+- Drawing facial landmarks in real time
+- Determining emotion through facial expressions in real time
+
+
 ## `navigator.getUserMedia`
 
 `navigator.getUserMedia` is now deprecated and is replaced by `navigator.mediaDevices.getUserMedia`. To fix this bug replace all versions of `navigator.getUserMedia` with `navigator.mediaDevices.getUserMedia`
