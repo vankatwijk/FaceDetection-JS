@@ -6,13 +6,13 @@ FaceDetection
 
 real time face detection through a webcam using AI, using the Face API JS library built on Tensor Flow to setup the face detection.
 
+## `navigator.getUserMedia`
+
+`navigator.getUserMedia` is now deprecated and is replaced by `navigator.mediaDevices.getUserMedia`. To fix this bug replace all versions of `navigator.getUserMedia` with `navigator.mediaDevices.getUserMedia`
+
 ## Getting Started
 
 The instructions for installing this project on your local machine with pre-requirements can be found in the directories Todo(mobile apps).
-
-
-## Built With
-* [vue.js](https://vuejs.org/) - Javascript frontend framework
 
 
 ## Authors
